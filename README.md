@@ -17,19 +17,34 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 
 <h2>Post-Install Configuration Objectives</h2>
 
+<h2>Configuration Steps</h2>
+
 1. Configure Roles, Departments, and Teams
 2. Allow end users to create tickets
 3. Configure Agents  ---- ???? and Users 
 4. Configure SLA
 5. Configure Help Topics
 
-<h2>Configuration Steps</h2>
+
+</p>
+<p>
+1. Configure Roles, Departments, and Teams
+</p>
+<br />
+<p>
+<img src="https://github.com/user-attachments/assets/603222ba-cf89-4cee-922c-ff9931ffc24a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/2db0e0c0-fa26-4b29-909a-861e560305b4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Review the ticket details—such as the user’s description, priority, and any attachments—to understand the issue. Acknowledge the ticket by replying to the user with a brief message (e.g., “We’ve received your request and are investigating”) to set expectations.
+</p>
+<br />
 
 <h2>Lifecycle Stages</h2>
 
 </p>
 <p>
-1. Ticket Review and Acknowledgment
+2. Allow end users to create tickets
 </p>
 <br />
 <p>
@@ -44,7 +59,7 @@ Review the ticket details—such as the user’s description, priority, and any 
 
 </p>
 <p>
-1. Ticket Review and Acknowledgment
+3. Configure Agents  ---- ???? and Users
 </p>
 <br />
 <p>
@@ -54,3 +69,46 @@ Review the ticket details—such as the user’s description, priority, and any 
 Review the ticket details—such as the user’s description, priority, and any attachments—to understand the issue. Acknowledge the ticket by replying to the user with a brief message (e.g., “We’ve received your request and are investigating”) to set expectations.
 </p>
 <br />
+
+<h2>Lifecycle Stages</h2>
+
+</p>
+<p>
+4. Configure SLA
+</p>
+<br />
+<p>
+<img src="https://github.com/user-attachments/assets/bde62226-1021-4eeb-b62f-e64c49019777" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Review the ticket details—such as the user’s description, priority, and any attachments—to understand the issue. Acknowledge the ticket by replying to the user with a brief message (e.g., “We’ve received your request and are investigating”) to set expectations.
+</p>
+<br />
+
+<h2>Lifecycle Stages</h2>
+
+</p>
+<p>
+5. Configure Help Topics
+</p>
+<br />
+<p>
+<img src="https://github.com/user-attachments/assets/bde62226-1021-4eeb-b62f-e64c49019777" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Review the ticket details—such as the user’s description, priority, and any attachments—to understand the issue. Acknowledge the ticket by replying to the user with a brief message (e.g., “We’ve received your request and are investigating”) to set expectations.
+</p>
+<br />
+
+IMAGES GO HERE
+
+![Screenshot 2025-03-31 191333](https://github.com/user-attachments/assets/603222ba-cf89-4cee-922c-ff9931ffc24a)
+
+![Screenshot 2025-03-31 192355](https://github.com/user-attachments/assets/2db0e0c0-fa26-4b29-909a-861e560305b4)
+
+
+
+
+
+
+
