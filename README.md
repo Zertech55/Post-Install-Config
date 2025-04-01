@@ -17,34 +17,40 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1. Configure Roles, Departments, and Teams
+2. Allow end users to create tickets
+3. Configure Agents  ---- ???? and Users 
+4. Configure SLA
+5. Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Lifecycle Stages</h2>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Ticket Review and Acknowledgment
+</p>
+<br />
+<p>
+<img src="https://github.com/user-attachments/assets/bde62226-1021-4eeb-b62f-e64c49019777" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Review the ticket details—such as the user’s description, priority, and any attachments—to understand the issue. Acknowledge the ticket by replying to the user with a brief message (e.g., “We’ve received your request and are investigating”) to set expectations.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h2>Lifecycle Stages</h2>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+1. Ticket Review and Acknowledgment
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/bde62226-1021-4eeb-b62f-e64c49019777" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Review the ticket details—such as the user’s description, priority, and any attachments—to understand the issue. Acknowledge the ticket by replying to the user with a brief message (e.g., “We’ve received your request and are investigating”) to set expectations.
 </p>
 <br />
